@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ultylort.github.io/sitemap.html.gz
+Sitemap: https://ultylort.github.io/app/sitemap.html.gz
+Sitemap: https://ultylort.github.io/assets/sitemap.html.gz
+Sitemap: https://ultylort.github.io/css/sitemap.html.gz
+Sitemap: https://ultylort.github.io/includes/sitemap.html.gz
+Sitemap: https://ultylort.github.io/item/sitemap.html.gz
+Sitemap: https://ultylort.github.io/src/sitemap.html.gz
